@@ -1,5 +1,7 @@
 html, body {
     margin: 0;
+    height: 100dvh;
+    width: 100dvw;
 }
 
 header {
@@ -35,6 +37,12 @@ header {
 .navbar a:hover{
     color: #0b3568;
     border-bottom: #0b3568;
+}
+
+.home{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
 }
 
 .content {
