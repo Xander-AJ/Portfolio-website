@@ -14,10 +14,10 @@ The project is designed to present a comprehensive view of John-Alexander Kamau'
 All content, design elements, and code in this portfolio project are the intellectual property of John-Alexander Kamau. Unauthorized use or reproduction of any part of this project is strictly prohibited.
 
 # Project Structure #
-#Home: # The landing page of the portfolio project, featuring an introduction to John-Alexander Kamau and highlighting key skills and achievements.
-#About: # Provides detailed information about John-Alexander Kamau, including background, education, professional experience, and skills.
-#Workplaces: # This section showcases the workplaces where John-Alexander Kamau has gained experience and expertise.
-#Projects: # Highlights the projects completed by John-Alexander Kamau, including descriptions, technologies used, and outcomes.
+#Home: The landing page of the portfolio project, featuring an introduction to John-Alexander Kamau and highlighting key skills and achievements.
+#About: Provides detailed information about John-Alexander Kamau, including background, education, professional experience, and skills.
+#Workplaces: This section showcases the workplaces where John-Alexander Kamau has gained experience and expertise.
+#Projects: Highlights the projects completed by John-Alexander Kamau, including descriptions, technologies used, and outcomes.
 
 ## Important Note ##
 This portfolio project is a work in progress. 
