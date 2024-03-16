@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: linear-gradient(to top left, #04152a, #245897);
+}
+
+header {
+    background-color: #245897;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    height: 65px;
+    width: 65px;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: 600;
+    transition: 0.3s ease-in-out;
+    border-bottom: 2px solid transparent;
+}
+
+.navbar a:hover{
+    color: #0b3568;
+    border-bottom: #0b3568;
+}
+
